@@ -1,0 +1,25 @@
+{
+  "name": "sendit",
+  "version": "1.0.0",
+  "description": "user functionalities",
+  "main": "index.js",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "eslint": "^5.8.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "config": "^2.0.1",
+    "express": "^4.16.4",
+    "joi": "^14.0.4",
+    "mocha": "^5.2.0",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.5",
+    "pug": "^2.0.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Diane Murekatete",
+  "license": "ISC"
+}
