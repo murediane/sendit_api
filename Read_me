@@ -1,0 +1,4 @@
+SendIT is a courier service that helps users deliver parcels to different destinations. SendIT
+provides courier quotes based on weight categories.
+
+This is the backend  code using express and node js to create apis
