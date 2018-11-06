@@ -1,0 +1,6 @@
+{
+  "name": "sendIt app-devellopment",
+  "mail": {
+    "host": "dev-mail-server"
+  }
+}
